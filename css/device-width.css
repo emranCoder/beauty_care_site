@@ -1,0 +1,149 @@
+@media only screen and (max-width: 969px) {
+.header-li {
+    display: block;
+    padding: 20px;
+}
+.header-ul {
+	background: #fff;
+	width: 500px;
+	height: 600px;
+	position: absolute;
+	top: 0;
+	transform: translateX(200%);
+	z-index: 1;
+}
+
+.close-menu span {
+	display: block;
+}
+.spa-img img {
+	width: 100%;
+}
+.services-price {
+	right: -27px;
+	bottom: -3px;
+}
+.services-box {
+	width: 160px;
+	height: 160px;
+}
+.product-box {
+	height: 430px;
+	width: 100%;
+}
+.product-color {
+	width: 87%;
+}
+.carousel-item img {
+    height: 600px;
+    width: 100% !important;
+}
+.luxery-spa {
+    right: 30px;
+    width: 350px;
+    margin-top: 0px; 
+    text-align: right;
+}
+.slider-title {
+	margin-top: -115px;
+}
+.gallery-img img{
+	width: 260px;;
+}
+.view-btn {
+	font-size: 14px;
+	padding: 10px 19px;
+}
+.header-ul-active {
+	transform: translateX(100%) !important;
+}
+
+}
+
+
+@media only screen and (max-width: 769px) {
+.services-price {
+	right: -10px;
+	bottom: -7px;
+}
+.services-box {
+	margin: auto;
+}
+.gallery-img img{
+	width: 205px;
+}
+.carousel-item img {
+    height: 500px;
+    width: 150% !important;
+}
+.header-ul-active {
+	transform: translateX(60%) !important;
+}
+
+}
+@media only screen and (max-width: 469px) {
+.services-price {
+	right: 76px;
+	bottom: 8px;
+}
+.services-box {
+	margin: auto;
+	margin-top: 20px;
+	width: 240px;
+	height: 240px;
+}
+.review-box {
+	margin-top: 50px;
+}
+.gallery-img {
+}
+.gallery-img img{
+	width: 110%;
+}
+.gallery-btn{
+    width: 68%;
+}
+.header-ul-active {
+	transform: translateX(15%) !important;
+}
+}
+@media only screen and (max-width: 320px) {
+.services-price {
+	right: -27px;
+	bottom: -3px;
+}
+.services-box {
+	margin:auto;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
